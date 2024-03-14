@@ -11,7 +11,7 @@
   <div style="display: inline_block"><br>
   <img aling="center" alt="Talli-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img aling="center" alt="Talli-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  </div>div
+  </div>
  
 
 </div>
