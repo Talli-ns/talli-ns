@@ -1,7 +1,7 @@
 ### Oiii!! Eu sou a Tallita Nascimento
 
 <div>
-  <a href="https://github.com/Tall-ns" >
+  <a href="https://github.com/Talil-ns" >
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=talli-ns&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talli-ns&theme=dracula"/>
 </div>
